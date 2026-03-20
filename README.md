@@ -201,14 +201,43 @@ const sachin = {
 
 ---
 
-## 🏆 GitHub Trophies
+ 
+## 🏅 GitHub Achievements
  
 <div align="center">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sachin23Pandey&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80px" alt="YOLO"/>
+<br/><br/>
+<strong>YOLO</strong>
+<br/>
+<sub>⚡ Merged a PR without a review</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80px" alt="Pull Shark"/>
+<br/><br/>
+<strong>Pull Shark</strong>
+<br/>
+<sub>🦈 Opened PRs that got merged</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80px" alt="Quickdraw"/>
+<br/><br/>
+<strong>Quickdraw</strong>
+<br/>
+<sub>🎯 Closed an issue within 5 mins</sub>
+</td>
+</tr>
+</table>
+ 
+<br/>
+ 
+> 🚀 *Real achievements earned through contributions — more unlocking soon!*
  
 </div>
-
+ 
 ---
 
 ## 📜 Certifications
