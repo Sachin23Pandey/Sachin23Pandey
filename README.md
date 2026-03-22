@@ -7,10 +7,7 @@
 
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;React.js+%7C+Node.js+%7C+Next.js+Developer;AI+API+Integration+Specialist+%F0%9F%A4%96;Building+Scalable+Web+Applications+%F0%9F%8C%90;Open+to+Exciting+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=BD00FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;JavaScript+%7C+Python+%7C+React+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Web+Apps+%F0%9F%A4%96;B.Tech+CSE+%2726+%7C+SIET+Prayagraj;Open+to+Exciting+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 ---
 
@@ -20,7 +17,7 @@
 
 ```javascript
 const sachin = {
-  location: "Bhadohi, Uttar Pradesh 🇮🇳",
+  location: "Prayagraj, Uttar Pradesh 🇮🇳",
   education: "B.Tech CSE @ SIET (2022–2026)",
   cgpa: "8.3 / 10.0",
   role: "Full Stack Software Engineer",
@@ -30,8 +27,7 @@ const sachin = {
     "Cloud & Distributed Systems",
     "Competitive Programming"
   ],
-  currentlyLearning: "System Design & Cloud Architecture",
-  funFact: "I turn ☕ into scalable APIs!",
+  currentlyLearning: "System Design & DSA",
   openToWork: true
 };
 ```
@@ -45,7 +41,7 @@ const sachin = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-pandey-9455a7262)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin23Pandey)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sachin23Pandey)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinpandey2423@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
@@ -96,83 +92,6 @@ const sachin = {
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Codicis — AI-Powered Code Editor
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-00C851?style=for-the-badge)](https://codicis.vercel.app)
-[![GitHub](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Sachin23Pandey)
-
-> A full-stack **cloud-based code editor** with real-time multi-language code execution and AI assistance.
-
-**✨ Highlights:**
-- 🔧 Multi-language execution via **Judge0 API**
-- 🤖 AI coding assistant via **Google Gemini API**
-- ⚡ Real-time editing with **Monaco Editor**
-- 🏗️ Scalable RESTful backend architecture
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express)
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google)
-
-</td>
-<td width="50%">
-
-### 💬 Rogentis — AI Conversational Platform
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-00C851?style=for-the-badge)](https://rogentis.vercel.app)
-[![GitHub](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Sachin23Pandey)
-
-> A scalable **full-stack AI chat application** with real-time conversational AI capabilities.
-
-**✨ Highlights:**
-- 🤖 Powered by **Google Gemini API**
-- 🗃️ Persistent chat history via **MongoDB**
-- 🔐 Secure RESTful APIs with authentication
-- 📱 Fully responsive modern UI
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🏢  Full Stack Developer Intern @ Technohacks                  │
-│  📅  Nov 2025 – Feb 2026                                        │
-│  ✅  Built scalable full-stack apps with React, Next.js, Node   │
-│  ✅  Designed & implemented secure RESTful APIs                 │
-│  ✅  MongoDB + Mongoose database architecture                   │
-├─────────────────────────────────────────────────────────────────┤
-│  🏢  Frontend Developer Intern @ CodeAlpha                      │
-│  📅  June 2025                                                  │
-│  ✅  Built responsive UIs with React.js + modern JS             │
-│  ✅  API integration using Axios & Fetch API                    │
-│  ✅  Optimized performance, accessibility (WCAG)                │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 </div>
 
