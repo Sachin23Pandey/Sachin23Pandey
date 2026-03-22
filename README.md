@@ -11,10 +11,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ### 👨‍💻 About Me
-
 ```javascript
 const sachin = {
   location: "Prayagraj, Uttar Pradesh 🇮🇳",
@@ -32,7 +33,12 @@ const sachin = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="45%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
 
 ---
 
