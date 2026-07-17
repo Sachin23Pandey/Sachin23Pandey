@@ -101,26 +101,6 @@ const sachin = {
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sachin23Pandey&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Sachin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin23Pandey&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
  
 ## 🏅 GitHub Achievements
  
