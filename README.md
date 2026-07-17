@@ -20,12 +20,12 @@
 const sachin = {
   location: "Prayagraj, Uttar Pradesh 🇮🇳",
   education: "B.Tech CSE @ SIET (2022–2026)",
-  cgpa: "8.3 / 10.0",
+  cgpa: "8.55 / 10.0",
   role: "Full Stack Software Engineer",
   passions: [
     "Building scalable web apps",
     "AI-powered integrations",
-    "Cloud & Distributed Systems",
+    "Cloud & Distributed System",
     "Competitive Programming"
   ],
   currentlyLearning: "System Design & DSA",
@@ -138,22 +138,6 @@ const sachin = {
  
 </div>
  
----
-
-## 📜 Certifications
-
-<div align="center">
-
-| 🏅 Certificate | 🏛️ Platform |
-|:---|:---|
-| JavaScript OOP | Udemy |
-| Full Stack Web Development | Apna College |
-| Python Crash Course | Coursera |
-| Figma for UI/UX | Udemy |
-
-</div>
-
----
 
 ## 🎯 Areas of Interest
 
